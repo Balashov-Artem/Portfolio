@@ -1,0 +1,35 @@
+# baseURL = "http://example.org/"
+baseURL = "Balashov-Artem/Portfolio.github.io"
+
+publoshDir = "docs"
+languageCode = "en-us"
+title = "Balashov Artem"
+theme = "hugo-creative-portfolio-theme"
+
+[params]
+  style = "default"
+  description = "Describe AAAA1"
+  copyright = "Написать тут какой-нибудь текст"
+  sidebarAbout = [
+    "Balashov Artem Portfolio",
+    "Это мое будущее портфолио, тут скоро будет какой-нибудь внятный текст, но пока его тут нет"
+  ]
+  email = "you@yoursite.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "https://www.facebook.com/balashov301"
+  googleplus    = "https://plus.google.com/u/0/101089597512299598557"
+  email = "Balashow.Artem@gmail.com"

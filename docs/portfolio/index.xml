@@ -55,10 +55,12 @@ There how is looking only beam with assembly units: #Composite laying scheme of 
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/wace_reducer/</guid>
       <description>Тут добавить текста как минимум нахера он нужен, характеристики и пару формул или там скрин расчета.
- Обороты Мощность Вес Тп  1 2 !(Render)(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
-3 ![Render]:https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png
-4 ![Render]:(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
-5 </description>
+ Обороты Мощность Вес Тп
+ 1
+   2  !(Render)(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
+ 3  ![Render]:https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png
+ 4  ![Render]:(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
+ 5  </description>
     </item>
     
     <item>

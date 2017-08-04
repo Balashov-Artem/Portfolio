@@ -14,19 +14,24 @@ weight = 4
 * Вес
 * Тп
 
-1
+* 1
+
 ![1112](https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
 
-2
+* 2
+
 !(Render)(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
 
-3
+* 3
+
 ![Render]:https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png
 
-4
+* 4
+
 ![Render]:(https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png)
 
-5
+* 5
+
 ![Render][1]
 
 ![Scheme][2]

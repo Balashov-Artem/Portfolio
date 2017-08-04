@@ -562,7 +562,25 @@ CUSTOMERS
   -webkit-filter: grayscale(0);
   filter: grayscale(0);
 }
+
+.img. resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
+.img {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
 /*
+
+
 
 =====================
 SIGN UP FORM

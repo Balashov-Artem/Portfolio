@@ -14,7 +14,7 @@ weight = 4
 * Вес
 * Тп
 
-knitr::include_graphics('img/portfolio/Wave_reducer/1.png')
+![1112](img/portfolio/Wave_reducer/1.png)
 
 ![Render][1]
 ![Scheme][2]

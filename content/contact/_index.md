@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "Get in tought"
 +++

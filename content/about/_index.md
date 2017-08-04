@@ -25,4 +25,4 @@ title = "About"
 
 Ну и так далее
 
-[1]: /img/Me.jpg "This is me"
+[1]: https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/Me.jpg?raw=true "This is me"

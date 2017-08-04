@@ -6,7 +6,7 @@ title = "Balashov Artem"
 theme = "hugo-creative-portfolio-theme"
 
 [params]
-  style = "violet"
+  style = "blue"
   description = "Describe AAAA1"
   copyright = "Написать тут какой-нибудь текст"
   sidebarAbout = [

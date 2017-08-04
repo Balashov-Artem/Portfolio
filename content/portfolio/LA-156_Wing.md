@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "img/portfolio/LA-156_Wing.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "LA-156 Wing skin"

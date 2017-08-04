@@ -14,7 +14,7 @@ theme = "hugo-creative-portfolio-theme"
     "Это мое будущее портфолио, тут скоро будет какой-нибудь внятный текст, но пока его тут нет"
   ]
 
-  email = "you@yoursite.com"
+  email = "Balashow.Artem@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]

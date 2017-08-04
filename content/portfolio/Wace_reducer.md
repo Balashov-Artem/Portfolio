@@ -17,5 +17,5 @@ weight = 4
 ![Render][1]
 ![Scheme][2]
 
-[1]: /img/portfolio/Wave_reducer/1.png "Render"
-[2]: /img/portfolio/Wave_reducer/2.png "Scheme"
+[1]: img/portfolio/Wave_reducer/1.png "Render"
+[2]: img/portfolio/Wave_reducer/2.png "Scheme"

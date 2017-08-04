@@ -37,4 +37,4 @@ weight = 4
 ![Scheme][2]
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/1.png "Render"
-[2]: //static/img/portfolio/Wave_reducer/2.png "Scheme"
+[2]: /docs/img/portfolio/Wave_reducer/2.png "Scheme"

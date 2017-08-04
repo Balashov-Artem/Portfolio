@@ -33,11 +33,11 @@ And how looks renders:
 # ![Render3][8]
 
 
-[1]: /img/portfolio/cirrus/1.jpg
-[2]: /img/portfolio/cirrus/2.jpg
-[3]: /img/portfolio/cirrus/3.jpg
-[4]: /img/portfolio/cirrus/4.jpg
-[5]: /img/portfolio/cirrus/5.jpg
-[6]: /img/portfolio/cirrus/6.jpg
-[7]: /img/portfolio/cirrus/7.jpg
-[8]: /img/portfolio/cirrus/8.jpg
+[1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/1.jpg
+[2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/2.jpg
+[3]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/3.jpg
+[4]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/4.jpg
+[5]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/5.jpg
+[6]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/6.jpg
+[7]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/7.jpg
+[8]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/8.jpg

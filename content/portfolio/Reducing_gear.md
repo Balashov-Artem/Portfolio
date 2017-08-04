@@ -11,6 +11,6 @@ weight = 6
 ![Scheme][2]
 ![Scheme2][3]
 
-[1]: /img/portfolio/reducing_gear/1.png
-[2]: /img/portfolio/reducing_gear/2.jpg
-[3]: /img/portfolio/reducing_gear/3.png
+[1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png
+[2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/2.jpg
+[3]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/3.png

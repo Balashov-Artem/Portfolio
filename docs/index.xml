@@ -55,7 +55,7 @@ There how is looking only beam with assembly units: #Composite laying scheme of 
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/wace_reducer/</guid>
       <description>Тут добавить текста как минимум нахера он нужен, характеристики и пару формул или там скрин расчета.
- Обороты Мощность Вес Тп  </description>
+ Обороты Мощность Вес Тп  knitr::include_graphics(&amp;lsquo;img/portfolio/Wave_reducer/1.png&amp;rsquo;)</description>
     </item>
     
     <item>

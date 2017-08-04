@@ -28,10 +28,10 @@ Strut was made by spooling fiber-glass and gluing assembly units.
 # ![Strut][6]
 
 
-[1]: /img/portfolio/beam_with_strut/1.jpg "Beam with strut isometry"
-[2]: /img/portfolio/beam_with_strut/2.jpg "Beam with strut"
-[3]: /img/portfolio/beam_with_strut/3.jpg "Beam with assembly units"
-[4]: /img/portfolio/beam_with_strut/4.jpg "Laying scheme"
-[5]: /img/portfolio/beam_with_strut/5.jpg "Fitting"
-[51]: /img/portfolio/beam_with_strut/5_1.jpg "Fitting_MFE"
-[6]: /img/portfolio/beam_with_strut/6.jpg "Strut"
+[1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg "Beam with strut isometry"
+[2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/2.jpg "Beam with strut"
+[3]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/3.jpg "Beam with assembly units"
+[4]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/4.jpg "Laying scheme"
+[5]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5.jpg "Fitting"
+[51]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5_1.jpg "Fitting_MFE"
+[6]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/6.jpg "Strut"

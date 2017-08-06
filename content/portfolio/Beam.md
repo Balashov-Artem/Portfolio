@@ -13,6 +13,14 @@ Design composite carbon beam with fiber-glass strut and articulator connectors.
 Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.
 
+Начальные характеристики балки следующие:
+
+|      Материал    |        Наименование       |  
+| ---------------  | ------------------------- |  
+| Материал полок   | Carbon fiber IM6, 65%     |  
+| Материал стенки  | Carbon fiber CF0604, 62%  |  
+| Материал стрежня | Fiber-glass  E-glass, 55% |  
+
 There how is looking only beam with assembly units:
 #![Beam][3]
 

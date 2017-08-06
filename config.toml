@@ -11,6 +11,7 @@ theme = "hugo-creative-portfolio-theme"
   copyright = "Made by Balashov Artem"
   sidebarAbout = [
     "Balashov Artem Portfolio",
+    " ... Website currently under construction ... ",
     "Это мое будущее портфолио, тут скоро будет какой-нибудь внятный текст, но пока его тут нет"
   ]
 

@@ -10,15 +10,18 @@ showonlyimage = false
 # ![Tail plane][1]
 
 Разработана модель горизонтального оперения самолета Cirrus SR22 в програмном пакете CATIA V5. В первую очередь выполнена параметрическая мастер-геометрия оперения:
+---
 Was designed a model of the horizontal tail plane of Cirrus SR22 with using the software package CATIA V5. First of all, modeling the parametric master-geometry:
 
 # ![Master-Geometry][2]
 
 Силовой набор выглядит так:
+---
 At second, bulkhead frame of wing:
 # ![Frame][3]
 
 Нервюра состовная:
+---
 Collapsed rib:  
 # ![Rib][4]
 
@@ -26,6 +29,7 @@ Attachment fittings:
 # ![Attachment fittings][5]
 
 И как выглядят редеры:
+---
 And how looks renders:
 # ![Render1][6]
 # ![Render2][7]

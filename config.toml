@@ -2,13 +2,13 @@
 baseURL = "https://balashov-artem.github.io/Portfolio/"
 publoshDir = "docs"
 languageCode = "en-us"
-title = "Balashov Artem"
+# title = "Balashov Artem"
 theme = "hugo-creative-portfolio-theme"
 
 [params]
   style = "blue"
-  description = "Describe AAAA1"
-  copyright = "Написать тут какой-нибудь текст"
+  description = "This is Balashov's Artem portfolio. For more information please contact me"
+  copyright = "Made by Balashov Artem"
   sidebarAbout = [
     "Balashov Artem Portfolio",
     "Это мое будущее портфолио, тут скоро будет какой-нибудь внятный текст, но пока его тут нет"

@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Balashov Artem</title>
+    <title>Portfolios on Balashov 1111 Artem</title>
     <link>https://balashov-artem.github.io/Portfolio/portfolio/</link>
-    <description>Recent content in Portfolios on Balashov Artem</description>
+    <description>Recent content in Portfolios on Balashov 1111 Artem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Написать тут какой-нибудь текст</copyright>
+    <copyright>Made by Balashov Artem</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://balashov-artem.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>LA-156 Wing skin</title>
-      <link>https://balashov-artem.github.io/Portfolio/portfolio/la-156_wing/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://balashov-artem.github.io/Portfolio/portfolio/la-156_wing/</guid>
-      <description> Не забыть напхать сюда теста. И можно формул и чисел.
-              </description>
-    </item>
     
     <item>
       <title>Cirrus SR22 tail plane</title>
@@ -36,7 +26,26 @@
     </item>
     
     <item>
-      <title>Beam with strut</title>
+      <title>LA-156 Wing skin</title>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/la-156_wing/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/la-156_wing/</guid>
+      <description> Не забыть напхать сюда теста. И можно формул и чисел.
+              </description>
+    </item>
+    
+    <item>
+      <title>Reducing gear</title>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The beam with strut</title>
       <link>https://balashov-artem.github.io/Portfolio/portfolio/beam/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
@@ -56,15 +65,6 @@ There how is looking only beam with assembly units: #Composite laying scheme of 
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/wace_reducer/</guid>
       <description>Тут добавить текста как минимум нахера он нужен, характеристики и пару формул или там скрин расчета.
  Обороты Мощность Вес Тп  </description>
-    </item>
-    
-    <item>
-      <title>Reducing gear</title>
-      <link>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</guid>
-      <description></description>
     </item>
     
   </channel>

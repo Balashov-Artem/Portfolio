@@ -4,7 +4,6 @@ image = "img/portfolio/Beam.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "The beam with strut"
 showonlyimage = false
-weight = 3
 +++
 
 

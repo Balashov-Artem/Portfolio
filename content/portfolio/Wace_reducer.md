@@ -4,7 +4,6 @@ image = "img/portfolio/Wave_reducer/1.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Wave reducer"
 showonlyimage = false
-weight = 4
 +++
 
 Тут добавить текста как минимум нахера он нужен, характеристики и пару формул или там скрин расчета.

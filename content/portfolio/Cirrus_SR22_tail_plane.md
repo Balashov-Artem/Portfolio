@@ -4,7 +4,6 @@ image = "img/portfolio/Cirrus_SR22.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Cirrus SR22 tail plane"
 showonlyimage = false
-weight = 2
 +++
 
 

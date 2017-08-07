@@ -19,6 +19,10 @@ Beam has been designed to bearable irregularly distributed load from
 | 1910 |               -15 |                 30 |  
 | 1920 |               -10 |                 32 |  
 
+|| *Year* || *Temperature (low)* || *Temperature (high)* ||  
+||   1900 ||                 -10 ||                   25 ||  
+||   1910 ||                 -15 ||                   30 ||  
+||   1920 ||                 -10 ||                   32 ||  
 
 
 There how is looking only beam with assembly units:

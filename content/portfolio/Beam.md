@@ -4,6 +4,7 @@ image = "img/portfolio/Beam.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "The beam with strut"
 showonlyimage = false
+<!--more-->
 +++
 
 
@@ -18,6 +19,7 @@ Beam has been designed to bearable irregularly distributed load from
 | 1900 |               -10 |                 25 |  
 | 1910 |               -15 |                 30 |  
 | 1920 |               -10 |                 32 |  
+
 
 || *Year* || *Temperature (low)* || *Temperature (high)* ||  
 ||   1900 ||                 -10 ||                   25 ||  

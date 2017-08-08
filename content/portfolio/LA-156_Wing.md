@@ -4,6 +4,7 @@ image = "img/portfolio/LA-156_Wing.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "LA-156 Wing skin"
 showonlyimage = false
+description = "Wonder how I set up this website using just GitHub pages, Hugo, and RStudio package blogdown? This tutorial walks you through every step."
 +++
 
 ## Не забыть напхать сюда теста.  
@@ -24,7 +25,8 @@ showonlyimage = false
 # ![Panell plete][12]
 # ![Tech documentation][13]
 
-
+<img src="../LA-156_Wing_files/1.jpg" class="img-responsive" style="display: block; margin: auto;" />
+<img src="../LA-156_Wing_files/13.png" class="img-responsive" style="display: block; margin: auto;" />
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg "Scheme"
 [2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/2.jpg "Master-Geometry"

@@ -6,10 +6,11 @@ title = "The beam with strut"
 showonlyimage = false
 +++
 
-
-# ![Beam with strut][1]
 Design composite carbon beam with fiber-glass strut and articulator connectors.
 <!--more-->
+
+
+# ![Beam with strut][1]
 # ![Beam with strut][2]
 Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.
@@ -40,9 +41,9 @@ Attachment fitting wich connect beam with strut made from 30ChGSA Steel and with
 Strut was made by spooling fiber-glass and gluing assembly units.
 # ![Strut][6]
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg" style="display: block; margin: auto;" />
+<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg" width="100%" " />
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/2.jpg" width="100"  />
+<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/2.jpg" width="100%"  />
 
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg "Beam with strut isometry"

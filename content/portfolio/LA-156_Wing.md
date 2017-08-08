@@ -25,8 +25,8 @@ description = "Wonder how I set up this website using just GitHub pages, Hugo, a
 # ![Panell plete][12]
 # ![Tech documentation][13]
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg" class="img-responsive" style="display: block; margin: auto;" />
-<img src="../LA-156_Wing_files/13.png" class="img-responsive" style="display: block; margin: auto;" />
+<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg" width="80%" />
+<img src="../LA-156_Wing_files/13.png" width="80%" />
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg "Scheme"
 [2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/2.jpg "Master-Geometry"

@@ -4,12 +4,12 @@ image = "img/portfolio/Beam.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "The beam with strut"
 showonlyimage = false
-<!--more-->
 +++
 
 
 # ![Beam with strut][1]
 Design composite carbon beam with fiber-glass strut and articulator connectors.
+<!--more-->
 # ![Beam with strut][2]
 Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.

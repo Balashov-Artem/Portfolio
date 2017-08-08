@@ -5,12 +5,12 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Cirrus SR22 tail plane"
 showonlyimage = false
 +++
+<!--more-->
 
 
 # ![Tail plane][1]
 
 Разработана модель горизонтального оперения самолета Cirrus SR22 в програмном пакете CATIA V5. В первую очередь выполнена параметрическая мастер-геометрия оперения:
-<!--more-->
 ---
 Was designed a model of the horizontal tail plane of Cirrus SR22 with using the software package CATIA V5. First of all, modeling the parametric master-geometry:
 

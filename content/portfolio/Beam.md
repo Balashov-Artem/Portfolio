@@ -16,8 +16,8 @@ Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.
 
 
-<table border="10">
-   <caption>Materiakls</caption>
+<table border="1">
+   <caption>Materials</caption>
    <tr>   <th>Part</th>   <th>Type</th>         <th>Material</th>   </tr>
    <tr>   <td>Shelfs</td> <th>Carbon fiber</th> <td>IM6, 65%</td>   </tr>
    <tr>   <td>Side</td>   <th>Carbon cloth</th> <td>6GfH, 58%</td>   </tr>

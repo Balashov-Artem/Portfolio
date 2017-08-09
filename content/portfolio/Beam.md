@@ -6,7 +6,7 @@ title = "The beam with strut"
 showonlyimage = false
 +++
 
-## Design composite carbon beam with fiber-glass strut and articulator connectors.
+Design composite carbon beam with fiber-glass strut and articulator connectors.
 <!--more-->
 
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg" width="100%" alt="Beam with strut isometry" />
@@ -16,7 +16,7 @@ Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.
 
 
-<table border="2">
+<table border="10">
    <caption>Materiakls</caption>
    <tr>   <th>Part</th>   <th>Type</th>         <th>Material</th>   </tr>
    <tr>   <td>Shelfs</td> <th>Carbon fiber</th> <td>IM6, 65%</td>   </tr>
@@ -26,22 +26,17 @@ Beam has been designed to bearable irregularly distributed load from
 
 
 There how is looking only beam with assembly units:
-#![Beam][3]
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/3.jpg" width="100%" alt="Beam with assembly units" />
 
 Composite laying scheme of beam looks like:
-# ![Laying scheme][4]
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/4.jpg" width="100%" alt="Laying scheme" />
 
 Attachment fitting wich connect beam with strut made from 30ChGSA Steel and with using [`Topology optimization`](https://en.wikipedia.org/wiki/Topology_optimization).
-# ![Fitting][5]
-# ![Fitting_MFE][51]
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5.jpg" width="100%" alt="Fitting" />
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5_1.jpg" width="100%" alt="Fitting_MFE" />
 
 
 Strut was made by spooling fiber-glass and gluing assembly units.
-# ![Strut][6]
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/6.jpg" width="100%" alt="Strut" />
 
 

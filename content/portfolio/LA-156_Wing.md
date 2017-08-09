@@ -7,7 +7,7 @@ showonlyimage = false
 description = "Wonder how I set up this website using just GitHub pages, Hugo, and RStudio package blogdown? This tutorial walks you through every step."
 +++
 
-## Design an LA-156 Wing skin
+Design an LA-156 Wing skin
 <!--more-->
 
 ## Не забыть напхать сюда теста.  

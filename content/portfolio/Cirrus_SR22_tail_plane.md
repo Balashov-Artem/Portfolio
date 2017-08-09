@@ -6,7 +6,7 @@ title = "Cirrus SR22 tail plane"
 showonlyimage = false
 +++
 
-## Modeling paramitrized tail plane in CATIA V5 
+Modeling paramitrized tail plane in CATIA V5 
 <!--more-->
 
 ![Tail plane][1]

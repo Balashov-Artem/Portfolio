@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 2
 +++
 
-## Design of stiffened composite panels with account process induced deformation
+Design of stiffened composite panels with account process induced deformation
 <!--more-->
 
 

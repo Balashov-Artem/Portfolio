@@ -25,6 +25,8 @@ Design of stiffened composite panels with account process induced deformation
 -   [Source code](#Source-code)
 -   [Заключение](#Заключение)
 
+
+
 Goals
 ---
 Цель: Разработка методов проектирования композитных конструкций с учетом технологического НДС

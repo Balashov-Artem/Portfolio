@@ -15,7 +15,7 @@ title = "About"
 Вставлю клевую фотку
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/Me.jpg"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/Me.jpg?raw=true"
  width="80%" alt="It's me" />
 
 И заживу как человеки.

@@ -7,6 +7,8 @@ showonlyimage = false
 weight = 1
 +++
 
+<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png" width="100%" alt="Render" />
+
 Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
 
 Технические характеристики редуктора:
@@ -20,7 +22,6 @@ weight = 1
 * Крутящий **момент выходного** вала (обода) = 113,4 *N·m*
 * Передаточное **отношение** = 8
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png" width="100%" alt="Render" />
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/2.jpg" width="100%" alt="Scheme" />
 
 Где : 1-`Основание корпуса`, 2-`Корпус`, 3-`Крышка корпуса`, 4-`Маслоуказатель`, 5 -`Вал-шестерня приводной`, 6-`Вал-шестерня передаточный (средний)`, 7-`Вал-шестерня тихоходный (выходной)`, 8,9-`Зубчатые колеса`, 10-14 -`Крышки подшипников`, 15-17-`Прокладки регулировочные`, 18-20-`Прокладки крышек валов`, 21,22-`Винты М12х8`, 23-`Смотровое окно`, 24 -`штифт смотрового окна`.  

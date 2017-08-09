@@ -37,7 +37,7 @@ Attachment fitting wich connect beam with strut made from 30ChGSA Steel and with
 
 
 Strut was made by spooling fiber-glass and gluing assembly units.
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/6.jpg" width="100%" alt="Strut" />
+<img src="../../img/portfolio/beam_with_strut/6.jpg" width="100%" alt="Strut" />
 
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg "Beam with strut isometry"

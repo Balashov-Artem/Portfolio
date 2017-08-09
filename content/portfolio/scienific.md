@@ -7,8 +7,9 @@ showonlyimage = false
 weight = 2
 +++
 
+
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/0.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/0.jpg?raw=true"
  width="100%" alt="scientific" />
 
 ## Design of stiffened composite panels with account process induced deformation

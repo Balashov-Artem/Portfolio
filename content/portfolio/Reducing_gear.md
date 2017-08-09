@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/reducing_gear/1.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Reducing gear"
-showonlyimage = true
+showonlyimage = false
 +++
 
 Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
@@ -20,5 +20,5 @@ showonlyimage = true
 * Передаточное **отношение** = 8
 
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png" width="100%" alt="Render" />
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/2.png" width="100%" alt="Scheme" />
+<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/2.jpg" width="100%" alt="Scheme" />
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/3.png" width="100%" alt="Equipment scheme" />

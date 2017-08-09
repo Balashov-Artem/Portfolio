@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/Wave_reducer/1.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Wave reducer"
-showonlyimage = true
+showonlyimage = false
 +++
 
 Разработка волнового двухступенчатоно редуктора повышенной надежности и износостойкости при нестационарной эксплуатации в условиях неблагоприятной среды. 

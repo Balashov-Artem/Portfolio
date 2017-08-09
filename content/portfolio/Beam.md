@@ -6,7 +6,8 @@ title = "The beam with strut"
 showonlyimage = false
 +++
 
-Design composite carbon beam with fiber-glass strut and articulator connectors.
+## Design composite carbon beam with fiber-glass strut and articulator connectors.
+<!--more-->
 
 
 # ![Beam with strut][1]

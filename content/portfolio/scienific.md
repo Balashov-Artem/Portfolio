@@ -7,13 +7,13 @@ showonlyimage = false
 weight = 2
 +++
 
+## Design of stiffened composite panels with account process induced deformation
 
+<!--more-->
 <img
  src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/0.jpg?raw=true"
  width="100%" alt="scientific" />
 
-## Design of stiffened composite panels with account process induced deformation
-<!--more-->
 
 ## Оглавление
 -   [Цели и задачи](#Цели-и-задачи)

@@ -11,13 +11,13 @@ weight = 2
 ## Design of stiffened composite panels with account process induced deformation
 
 ## Оглавление
-- [Цели и задачи](#Цели-и-задачи)
-- [Введение](#Введение)
-- [Аналитический расчет](#Аналитический-расчет)
-- [МКЄ](#МКЄ)
-- [Експериментальный образец](#Експериментальный-образец)
-- [Исходный код](#Исходный-код)
-- [Заключение](#Заключение)
+- [Цели и задачи](###Цели-и-задачи)
+- [Введение](###Введение)
+- [Аналитический расчет](###Аналитический-расчет)
+- [МКЄ](###МКЄ)
+- [Експериментальный образец](###Експериментальный-образец)
+- [Исходный код](###Исходный-код)
+- [Заключение](###Заключение)
 
 ### Цели и задачи
 Цель: Разработка методов проектирования композитных конструкций с учетом технологического НДС
@@ -33,7 +33,7 @@ weight = 2
 * Сравнение результатов с экспериментом
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/1.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/1.JPG"
  width="100%" alt="Stringer panels" />
 (Картинка из интернетов)
 
@@ -44,7 +44,7 @@ weight = 2
 В работе рассмотрены различные элементы интегральных конструкций (с подкреплением, трехслойные и др.) Проанализированы основные закономерности технологического НДС данных элементов, на основании чего даны практические рекомендации к проектированию и изготовлению интегральных композитных конструкций.
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/2.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/2.JPG"
  width="100%" alt="Stringer panel" />
 
 В работе рассмотрена панель, с продольным по ширине расположением стрингеров. Задачами данной работы является разработать аналитический метод прогнозирования технологического НДС подкрепленных композитных панелей, необходимый для постановки задачи оптимизации панели с учетом технологического НДС, а также разработка методики проектирования подкрепленных панелей с учетом ограничений на величину технологических деформаций.
@@ -52,25 +52,25 @@ weight = 2
 ### Аналитический расчет
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/3.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/3.JPG"
  width="100%" alt="Formuls" />
 Где - B - Мембранные жесткостя, С - "смешанные" жесткостя, M - температурные моменты, D - изгибные жесткостя, k,j - 1,2,3, e - деформации.
 
 Продольный прогиб определяется:  
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/4.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/4.JPG"
  width="100%" alt="Продольный прогиб" />
 
 Поперечный прогиб элементы стрингерной панели:
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/5.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/5.JPG"
  width="100%" alt="Stringer panels" />
 
 График изменения прочности и деформации от замещения части несущих слоев композита слоями технологическими:
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/6.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/6.JPG"
  width="100%" alt="Stringer panels" />   
 Где:  
 
@@ -79,7 +79,7 @@ weight = 2
 
 Еще зависимости некоторых характеристик от внедрения технологических слоев.
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/7.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/7.JPG"
  width="100%" alt="Stringer panels" />   
 
 * Левый график - Изгибная жесткость, **ГПа/мм4**.
@@ -88,11 +88,11 @@ weight = 2
 ### МКЄ
 Величины деформаций элемента с использованием метода конечных элементов:
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/8.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/8.JPG"
  width="100%" alt="Stringer panels" />   
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/9.png"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/9.png"
  width="100%" alt="Stringer panels" />      
 
 
@@ -100,11 +100,11 @@ weight = 2
 Величины деформаций можно наблюдать невооруженным глазом.  
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/10.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/10.JPG"
  width="100%" alt="Stringer panels" />   
 
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/portfolio/scientific/11.JPG"
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/11.JPG"
  width="100%" alt="Stringer panels" />   
 
 

@@ -28,8 +28,21 @@ Design an LA-156 Wing skin
 # ![Panell plete][12]
 # ![Tech documentation][13]
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg" width="80%" />
-<img src="../LA-156_Wing_files/13.png" width="80%" />
+
+<img src="../../img/portfolio/LA-156_Wing/1.jpg" width="80%" alt="Scheme" />
+<img src="../../img/portfolio/LA-156_Wing/2.jpg" width="80%" alt="Master-Geometry" />
+<img src="../../img/portfolio/LA-156_Wing/3.jpg" width="80%" alt="Manway" />
+<img src="../../img/portfolio/LA-156_Wing/3,1.jpg" width="80%" alt="Lock" />
+<img src="../../img/portfolio/LA-156_Wing/4.jpg" width="80%" alt="Cur" />
+<img src="../../img/portfolio/LA-156_Wing/5.png" width="80%" alt="Stress scheme" />
+<img src="../../img/portfolio/LA-156_Wing/6.png" width="80%" alt="FEM" />
+<img src="../../img/portfolio/LA-156_Wing/7.png" width="80%" alt="Segments" />
+<img src="../../img/portfolio/LA-156_Wing/8.png" width="80%" alt="Segment" />
+<img src="../../img/portfolio/LA-156_Wing/9.png" width="80%" alt="Modeling form scheme" />
+<img src="../../img/portfolio/LA-156_Wing/10.png" width="80%" alt="Modeling form scheme" />
+<img src="../../img/portfolio/LA-156_Wing/11.png" width="80%" alt="Shaping" />
+<img src="../../img/portfolio/LA-156_Wing/12.png" width="80%" alt="Panel plate" />
+<img src="../../img/portfolio/LA-156_Wing/13.png" width="80%" alt="Tech documentation" />
 
 [1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/1.jpg "Scheme"
 [2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/LA-156_Wing/2.jpg "Master-Geometry"

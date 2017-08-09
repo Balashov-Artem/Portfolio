@@ -9,8 +9,8 @@ showonlyimage = false
 Design composite carbon beam with fiber-glass strut and articulator connectors.
 <!--more-->
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/1.jpg" width="100%" alt="Beam with strut isometry" />
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/2.jpg" width="100%" alt="Beam with strut" />
+<img src="../../img/portfolio/beam_with_strut/1.jpg" width="100%" alt="Beam with strut isometry" />
+<img src="../../img/portfolio/beam_with_strut/2.jpg" width="100%" alt="Beam with strut" />
 
 Beam has been designed to bearable irregularly distributed load from
 75 kN at the assembly unit to -60 kN at the end.
@@ -26,14 +26,14 @@ Beam has been designed to bearable irregularly distributed load from
 
 
 There how is looking only beam with assembly units:
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/3.jpg" width="100%" alt="Beam with assembly units" />
+<img src="../../img/portfolio/beam_with_strut/3.jpg" width="100%" alt="Beam with assembly units" />
 
 Composite laying scheme of beam looks like:
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/4.jpg" width="100%" alt="Laying scheme" />
+<img src="../../img/portfolio/beam_with_strut/4.jpg" width="100%" alt="Laying scheme" />
 
 Attachment fitting wich connect beam with strut made from 30ChGSA Steel and with using [`Topology optimization`](https://en.wikipedia.org/wiki/Topology_optimization).
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5.jpg" width="100%" alt="Fitting" />
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/beam_with_strut/5_1.jpg" width="100%" alt="Fitting_MFE" />
+<img src="../../img/portfolio/beam_with_strut/5.jpg" width="100%" alt="Fitting" />
+<img src="../../img/portfolio/beam_with_strut/5_1.jpg" width="100%" alt="Fitting_MFE" />
 
 
 Strut was made by spooling fiber-glass and gluing assembly units.

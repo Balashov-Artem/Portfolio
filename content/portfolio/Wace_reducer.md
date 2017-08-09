@@ -23,12 +23,11 @@ showonlyimage = false
 
 В разрезе изометрического вида редуктор выглядит так:
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/
-docs/img/portfolio/Wave_reducer/1.png" width="100%" alt="Render" />
+<img src="../../img/portfolio/Wave_reducer/1.png" width="100%" alt="Render" />
 
 
 На схеме ниже указаны основные конструктивные элементы редуктора:
 
-<img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/Wave_reducer/2.png" width="100%" alt="Scheme" />
+<img src="../../img/portfolio/Wave_reducer/2.png" width="100%" alt="Scheme" />
 
 Где : 1-`Электродвигатель`, 2-`Приводной вал`, 3-`Гибкое колесо`, 4-`Пиропатрон`, 5,13 -`Уплотнительное кольцо`, 6-`Эксцентриковый генератор волн`, 7-`Зубчатое колесо (приводное)`, 8-`Шестерня`, 9,10,14 -`Крышки`, 11-`Вращающаяся крышка`, 12-`Обод колеса`, 15-`Жесткое колесо`, 16-`Втулка`, 17-`Прокладка`, 18,19,20 -`Подшипники`, 21,22,23,24-`Болты`, 25, -`Шпонка`, 26,27-`Шайбы`, 28-`Винт`.

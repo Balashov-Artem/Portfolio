@@ -14,7 +14,9 @@ title = "About"
 
 Вставлю клевую фотку
 
-![Me][1]
+<img
+ src="https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/Me.jpg"
+ width="80%" alt="It's me" />
 
 И заживу как человеки.
 
@@ -23,6 +25,4 @@ title = "About"
 * Высшее  
 * И еще выше
 
-Ну и так далее
-
-[1]: https://github.com/Balashov-Artem/Portfolio/blob/master/static/img/Me.jpg?raw=true "This is me"
+Ну и так далее.

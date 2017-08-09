@@ -10,6 +10,7 @@ weight = 1
 <img src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png" width="100%" alt="Render" />
 
 Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
+<!--more-->
 
 Технические характеристики редуктора:
 

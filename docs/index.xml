@@ -18,9 +18,10 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</guid>
-      <description>Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
-Технические характеристики редуктора:
- Мощность электродвигателей = 1,3 кВт Ресурс = 4 000 часов Вес = 32 кг Частота вращения входных валов = 4000 об/мин Частота вращения выходного вала (обода) = 500 об/мин Крутящий момент входного вала (одного) = 12,3 N·m Крутящий момент выходного вала (обода) = 113,4 N·m Передаточное отношение = 8  Где : 1-Основание корпуса, 2-Корпус, 3-Крышка корпуса, 4-Маслоуказатель, 5 -Вал-шестерня приводной, 6-Вал-шестерня передаточный (средний), 7-Вал-шестерня тихоходный (выходной), 8,9-Зубчатые колеса, 10-14 -Крышки подшипников, 15-17-Прокладки регулировочные, 18-20-Прокладки крышек валов, 21,22-Винты М12х8, 23-Смотровое окно, 24 -штифт смотрового окна.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/reducing_gear/1.png&#34; width=&#34;100%&#34; alt=&#34;Render&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,8 +30,13 @@
       <pubDate>Sun, 01 May 2016 18:25:22 +0530</pubDate>
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/scienific/</guid>
-      <description>Design of stiffened composite panels with account process induced deformation Оглавление  Цели и задачи Введение Аналитический расчет МКЄ Експериментальный образец Исходный код Заключение  Цели и задачи Цель: Разработка методов проектирования композитных конструкций с учетом технологического НДС Задачи первого этапа:
- Исследование влияния структурных параметров интегральной конструкции на примере стрингерной панели на её технологическое НДС Исследование возможностей варьирования параметрами конструкции с целью обеспечения допустимого уровня технологических деформаций  Задачи второго этапа:</description>
+      <description>&lt;p&gt;&lt;img
+ src=&#34;https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific.JPG&#34;
+ width=&#34;100%&#34; alt=&#34;scientific&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-of-stiffened-composite-panels-with-account-process-induced-deformation&#34;&gt;Design of stiffened composite panels with account process induced deformation&lt;/h2&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

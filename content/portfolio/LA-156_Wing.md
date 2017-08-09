@@ -13,22 +13,6 @@ Design an LA-156 Wing skin
 ## Не забыть напхать сюда теста.  
 И можно формул и чисел.
 
-# ![Scheme][1]
-# ![Master-Geometry][2]
-# ![Manway][3]
-# ![Lock][3,1]
-# ![Cut][4]
-# ![Stress scheme][5]
-# ![FEM][6]
-# ![Segments][7]
-# ![Segment][8]
-# ![Modeling form scheme][9]
-# ![Modeling form][10]
-# ![Shaping][11]
-# ![Panell plete][12]
-# ![Tech documentation][13]
-
-
 <img src="../../img/portfolio/LA-156_Wing/1.jpg" width="80%" alt="Scheme" />
 <img src="../../img/portfolio/LA-156_Wing/2.jpg" width="80%" alt="Master-Geometry" />
 <img src="../../img/portfolio/LA-156_Wing/3.jpg" width="80%" alt="Manway" />

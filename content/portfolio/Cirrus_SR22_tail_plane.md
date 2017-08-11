@@ -44,15 +44,7 @@ Attachment fittings:
 
 And how looks renders:
 <img src="../../img/portfolio/cirrus/6.jpg" width="100%" alt="Render1" />
+
 <img src="../../img/portfolio/cirrus/7.jpg" width="100%" alt="Render2" />
+
 <img src="../../img/portfolio/cirrus/8.jpg" width="100%" alt="Render3" />
-
-
-[1]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/1.jpg
-[2]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/2.jpg
-[3]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/3.jpg
-[4]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/4.jpg
-[5]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/5.jpg
-[6]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/6.jpg
-[7]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/7.jpg
-[8]: https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/cirrus/8.jpg

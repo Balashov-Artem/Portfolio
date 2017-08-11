@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Made by Balashov Artem</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://balashov-artem.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Reducing gear</title>
-      <link>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</guid>
-      <description>&lt;p&gt;Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
-&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Technological stresses  of integrated constructions</title>
@@ -28,8 +18,7 @@
       <pubDate>Sun, 01 May 2016 18:25:22 +0530</pubDate>
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/scienific/</guid>
-      <description>&lt;p&gt;Design of stiffened composite panels with account process induced deformation
-&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -49,6 +38,16 @@
       
       <guid>https://balashov-artem.github.io/Portfolio/portfolio/la-156_wing/</guid>
       <description>&lt;p&gt;Design an LA-156 Wing skin
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reducing gear</title>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/reducing_gear/</guid>
+      <description>&lt;p&gt;Разработан простой трехступенчатый цилиндрический редуктор для стационарной установки на конвеерное оборудование.
 &lt;/p&gt;</description>
     </item>
     

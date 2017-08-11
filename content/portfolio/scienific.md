@@ -5,30 +5,31 @@ date = "2016-05-01T18:25:22+05:30"
 title = "Technological stresses  of integrated constructions"
 showonlyimage = false
 weight = 2
+
 +++
 
 Design of stiffened composite panels with account process induced deformation
 <!--more-->
-
-
 <img
- src="https://github.com/Balashov-Artem/Portfolio/blob/master/docs/img/portfolio/scientific/0.jpg?raw=true"
+ src="../../img/portfolio/scientific/0.jpg?raw=true"
  width="100%" alt="scientific" />
 
 
-## Оглавление
--   [Цели и задачи](#Goals)
--   [Введение](#Введение)
--   [Аналитический расчет](#Аналитический-расчет)
--   [МКЄ](#МКЄ)
--   [Експериментальный образец](#Експериментальный-образец)
--   [Source code](#Source-code)
--   [Заключение](#Заключение)
+
+
+-   [Goals](#goals)
+-   [Introduction](#introduction)
+-   [Аналитический расчет](#аналитический-расчет)
+-   [МКЭ](#мкэ)
+-   [Експериментальный образец](#экспериментальный-образец)
+-   [Исходный код](#исходный-код)
+-   [Заключение](#заключение)  
 
 
 
 Goals
----
+------------
+
 Цель: Разработка методов проектирования композитных конструкций с учетом технологического НДС
 Задачи первого этапа: 
 
@@ -42,18 +43,18 @@ Goals
 * Сравнение результатов с экспериментом
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/1.JPG"
+ src="../../img/portfolio/scientific/1.JPG"
  width="100%" alt="Stringer panels" />
 (Картинка из интернетов)
 
-### Введение
+### Introduction
 
 При применении композиционных материалов (КМ) в авиационной промышленности значительное внимание уделяется не только их эксплуатационным, но и технологическим характеристикам. Особенно трудоемким и ресурсоемким является процесс формования изделий из КМ. В следствии чего особое внимание необходимо уделить так называемым интегральным конструкциям – конструкциям, получаемым за один цикл формования. Кроме очевидной экономической выгоды, интегральные конструкции обладают повышенной прочностью в сравнении с аналогичными конструкциями, полученными классическими методами.  
 Однако интегральные конструкции куда более подвержены температурным деформациям и короблению. Это происходит из-за того, что при изготовлении ИК могут использовать разные материалы, или укладывать материал под разными углами. Различный КЛТР вызывает неравномерные по геометрии детали деформации. Остывание материалов вызывают внутренние температурные напряжения. И, как следствие, конструкция является напряженной еще до прикладывания к ней внешней нагрузки.  
 В работе рассмотрены различные элементы интегральных конструкций (с подкреплением, трехслойные и др.) Проанализированы основные закономерности технологического НДС данных элементов, на основании чего даны практические рекомендации к проектированию и изготовлению интегральных композитных конструкций.
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/2.JPG"
+ src="../../img/portfolio/scientific/2.JPG"
  width="100%" alt="Stringer panel" />
 
 В работе рассмотрена панель, с продольным по ширине расположением стрингеров. Задачами данной работы является разработать аналитический метод прогнозирования технологического НДС подкрепленных композитных панелей, необходимый для постановки задачи оптимизации панели с учетом технологического НДС, а также разработка методики проектирования подкрепленных панелей с учетом ограничений на величину технологических деформаций.
@@ -61,25 +62,25 @@ Goals
 ### Аналитический расчет
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/3.JPG"
+ src="../../img/portfolio/scientific/3.JPG"
  width="100%" alt="Formuls" />
 Где - B - Мембранные жесткостя, С - "смешанные" жесткостя, M - температурные моменты, D - изгибные жесткостя, k,j - 1,2,3, e - деформации.
 
 Продольный прогиб определяется:  
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/4.JPG"
+ src="../../img/portfolio/scientific/4.JPG"
  width="100%" alt="Продольный прогиб" />
 
 Поперечный прогиб элементы стрингерной панели:
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/5.JPG"
+ src="../../img/portfolio/scientific/5.JPG"
  width="100%" alt="Stringer panels" />
 
 График изменения прочности и деформации от замещения части несущих слоев композита слоями технологическими:
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/6.JPG"
+ src="../../img/portfolio/scientific/6.JPG"
  width="100%" alt="Stringer panels" />   
 Где:  
 
@@ -88,38 +89,39 @@ Goals
 
 Еще зависимости некоторых характеристик от внедрения технологических слоев.
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/7.JPG"
+ src="../../img/portfolio/scientific/7.JPG"
  width="100%" alt="Stringer panels" />   
 
 * Левый график - Изгибная жесткость, **ГПа/мм4**.
 * Правый грайик - Критические усилия потери устойчивости, **МПа**.
 
-### МКЄ
+### МКЭ
 Величины деформаций элемента с использованием метода конечных элементов:
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/8.JPG"
+ src="../../img/portfolio/scientific/8.JPG"
  width="100%" alt="Stringer panels" />   
-
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/9.png"
+ src="../../img/portfolio/scientific/9.PNG"
  width="100%" alt="Stringer panels" />      
 
 
-### Експериментальный образец
+### Экспериментальный образец
 Величины деформаций можно наблюдать невооруженным глазом.  
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/10.JPG"
+ src="../../img/portfolio/scientific/10.JPG"
  width="100%" alt="Stringer panels" />   
 
 <img
- src="https://raw.githubusercontent.com/Balashov-Artem/Portfolio/master/docs/img/portfolio/scientific/11.JPG"
+ src="../../img/portfolio/scientific/11.JPG"
  width="100%" alt="Stringer panels" />   
 
 
-### Source code
+### Исходный код
 
-Код python 3+ для определения температурных деформаций можно взять следующий. Вместо модуля materials можно просто подставлять соответствующие величиный ФМХ материалов.
+Код python 3+ для определения температурных деформаций можно взять [отсюда](). Вместо модуля materials можно просто подставлять соответствующие величиный ФМХ материалов.
+
+Source coe you can find [there](../../source_code/course_project.py)
 
 ```python
 import materials as m
@@ -136,10 +138,11 @@ _______                    _______  низ стрингера
        |                  |         стенка стрингера
        |                  |       
        |__________________|         верх стрингера
-       ____________________         "шляпка"''')
+       ____________________         "шляпка"
+''')
 
-print('')
-print('')
+print()
+print()
 
 m.load_var(0)
 
@@ -153,7 +156,7 @@ a = 140
 b = 140
 
 #Перепад температур
-gradT = -50
+gradT = -50 #отрицательніе для охлаждения
 
 '''структура обшивки в градусах и кол-во слоев'''
 struct_plat_deg = [90, 45,-45, -45, 45, 90]
@@ -183,6 +186,11 @@ struct_up_n = [0]
 
 '''высота в мм стенки стрингера. только стенки. без нижней кромки и верхней'''
 h_str = 10
+
+"""
+Расчет
+"""
+
 
 '''структура "условной слоистой системы" в градусах'''
 struct_cond_deg = struct_plat_deg+struct_down_deg+struct_str_deg+struct_str_deg+struct_str_deg+struct_up_deg
@@ -246,11 +254,6 @@ for i in range(len(struct_cond)):
     at2i = b12i*m.a1+b22i*m.a2
     at3i = b13i*m.a1+b23i*m.a2
 
-    '''at1i = (m.a1*E1p*(cos(struct_cond[i])**2+mu21*sin(struct_cond[i])**2)+m.a2*E2p*(sin(struct_cond[i])**2+mu12*cos(struct_cond[i])))*red_k[i]
-        at2i = (m.a1*E1p*(sin(struct_cond[i])**2+mu21*cos(struct_cond[i])**2)+m.a2*E2p*(cos(struct_cond[i])**2+mu12*sin(struct_cond[i])))*red_k[i]
-        at3i = (sin(struct_cond[i])*cos(struct_cond[i])*(m.a1*E1p*(1-mu21)-m.a2*E2p*(1-mu12)))*red_k[i]
-    '''
-
     b11.append(b11i)
     b12.append(b12i)
     b13.append(b13i)
@@ -298,8 +301,6 @@ for i in range(len(struct_plat)):
 
     Dt2 += at2[i]*(zi[i]**2-zi_minus_1[i]**2)*gradT
     Dt3 += at3[i]*(zi[i]**2-zi_minus_1[i]**2)*gradT
-
-'''Узнать, почему для Дт з в квадрате, а не в кубе'''
 
 B = B11*B22*B33+2*B12*B13*B23-B11*B12**2-B22*B13**2-B33*B12**2
 B11p = (B22*B33-B23**2)/B
@@ -355,7 +356,7 @@ det_Dij_p = numpy.linalg.det(Dij_p)
 #print(det_Dij_p)
 
 proverka_opredelitela = Dij_p[0][0]*Dij_p[1][1]*Dij_p[2][2]  +  Dij_p[0][1]*Dij_p[1][2]*Dij_p[2][0]  +  Dij_p[0][2]*Dij_p[1][0]*Dij_p[2][1]  -  Dij_p[0][2]*Dij_p[1][1]*Dij_p[2][0]  -  Dij_p[0][1]*Dij_p[1][0]*Dij_p[2][2]  -  Dij_p[0][0]*Dij_p[1][2]*Dij_p[2][1]
-#print(proverka_opredelitela)
+print(proverka_opredelitela)
 
 mat_Dt_D_D = [[0 for i in range(3)] for j in range(3)]
 mat_D_Dt_D = [[0 for i in range(3)] for j in range(3)]
@@ -382,15 +383,6 @@ for i in range(3):
         else:
             mat_D_D_Dt[i][j] = Dij_p[i][j]
 
-'''m.print_ar('Dt', Dti_p, '', 4)
-m.print_result('Dijp', Dij_p, '')
-print('')
-m.print_result('mat_Dt_D_D', mat_Dt_D_D, '')
-print('')
-m.print_result('mat_D_Dt_D', mat_D_Dt_D, '')
-print('')
-m.print_result('mat_D_D_Dt', mat_D_D_Dt, '')'''
-
 det_Dt_D_D = numpy.linalg.det(mat_Dt_D_D)
 det_D_Dt_D = numpy.linalg.det(mat_D_Dt_D)
 det_D_D_Dt = numpy.linalg.det(mat_D_D_Dt)
@@ -403,9 +395,11 @@ print('Kx  = ', Kx)
 print('Ky  = ', Ky)
 print('Kxy = ', Kxy)
 
+# Задание координат определения прогиба
 x = 70
 y_str = 20
 y = 40
+
 C1, C2 = 0, 0
 print('')
 Wx = Kx*x**2/2

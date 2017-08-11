@@ -119,9 +119,9 @@ Goals
 
 ### Исходный код
 
-Код python 3+ для определения температурных деформаций можно взять [отсюда](). Вместо модуля materials можно просто подставлять соответствующие величиный ФМХ материалов.
+Код python 3+ для определения температурных деформаций можно взять [отсюда](../../source_code/course_project/course_project.py). Вместо модуля materials можно просто подставлять соответствующие величиный ФМХ материалов.
 
-Source coe you can find [there](../../source_code/course_project.py)
+Source coe you can find [there](../../source_code/course_project/)
 
 ```python
 import materials as m

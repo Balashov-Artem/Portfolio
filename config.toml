@@ -1,12 +1,10 @@
 baseURL = "https://balashov-artem.github.io/"
-publishDir = "docs"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Balashov Artem"
 theme = "hugo-creative-portfolio-theme"
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
   style = "blue"
   description = ""
   copyright = ""

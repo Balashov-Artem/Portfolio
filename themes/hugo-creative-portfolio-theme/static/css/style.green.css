@@ -1,14 +1,17 @@
-/*
-=========================================
-=========================================
+/* 
+========================================= 
+========================================= 
+
 Startup Template By Bootstrapious.com
-=========================================
+========================================= 
 ========================================= */
 /*variant 2 - green */
 /*
+
 =====================
 GENERAL
 =====================
+
 */
 html,
 body {
@@ -312,19 +315,14 @@ fieldset[disabled] .btn-white.active {
   color: #1c3738;
 }
 /*
+
 =====================
 SIDEBAR + RIGHT COLUMN
 =====================
+
 */
 #sidebar {
   padding-top: 40px;
-}
-/*modified sidebar to follow scroll */
-.sidebar-content {
-    position: fixed;
-    width: inherit;
-    z-index: 0;
-    padding: 0 1em 0 0.2em;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -453,9 +451,11 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 /*
+
 =====================
 OFF-CANVAS SIDEBAR BEHAVIOUR
 =====================
+
 */
 @media screen and (max-width: 767px) {
   .row-offcanvas {
@@ -495,9 +495,11 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
   }
 }
 /*
+
 =====================
 SERVICES / INTEGRATIONS
 =====================
+
 */
 .services {
   margin-top: 80px;
@@ -532,9 +534,11 @@ SERVICES / INTEGRATIONS
   color: #999999;
 }
 /*
+
 =====================
 CUSTOMERS
 =====================
+
 */
 .customer {
   text-align: center;
@@ -551,9 +555,11 @@ CUSTOMERS
   filter: grayscale(0);
 }
 /*
+
 =====================
 SIGN UP FORM
 =====================
+
 */
 @media (max-width: 991px) {
   .sign-up-form .form-control {
@@ -569,9 +575,11 @@ SIGN UP FORM
   }
 }
 /*
+
 =====================
 SOCIAL LINKS
 =====================
+
 */
 .contact-form {
   margin-bottom: 20px;
@@ -650,9 +658,11 @@ p.social.social--big i {
   line-height: 60px;
 }
 /*
+
 =====================
 COPYRIGHT
 =====================
+
 */
 .copyright {
   color: #999999;
@@ -675,9 +685,11 @@ COPYRIGHT
   }
 }
 /*
+
 =====================
 MAIN PORTFOLIO SLIDER
 =====================
+
 */
 #main-slider {
   margin-bottom: 40px;
@@ -697,9 +709,11 @@ MAIN PORTFOLIO SLIDER
   background: #2b7551;
 }
 /*
+
 =====================
 ABOUT
 =====================
+
 */
 .progress-title {
   text-align: left;
@@ -770,9 +784,11 @@ ABOUT
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 /*
+
 =====================
 EKKO LIGHTBOX
 =====================
+
 */
 .ekko-lightbox-container {
   position: relative;
@@ -1196,9 +1212,11 @@ a:active {
   transform: translate(0, 100%);
 }
 /*
+
 =====================
 STYLE SWITCHER FOR DEMO
 =====================
+
 */
 #style-switch-button {
   position: fixed;

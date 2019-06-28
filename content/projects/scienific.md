@@ -2,7 +2,7 @@
 draft = false
 image = "img/projects/scientific/scientific.jpg"
 date = "2016-05-01T18:25:22+05:30"
-title = "Technological stresses  of integrated constructions"
+title = "Technological stresses  of integral constructions"
 showonlyimage = false
 description = "Design of stiffened composite panels with account process induced deformation."
 weight = 2
@@ -30,8 +30,8 @@ Design of stiffened composite panels with account process technological deformat
 
 
 
-### Goals
 ------------
+### Goals
 
 
 The main purpose if to make an analytic model to considering technological **deflected mode** (Stress-Strain condition, or SSC) while design an integral structure. (By **_intagral_** means structure, that made from 2 or more parts and formed at the same time).

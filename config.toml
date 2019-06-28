@@ -1,6 +1,6 @@
-baseURL = "https://balashov-artem.github.io/Portfolio/"
-languageCode = "en-us"
+baseURL = "http://balashov-artem.github.io/"
 publishDir = "docs"
+languageCode = "en-us"
 title = "Balashov Artem"
 theme = "hugo-creative-portfolio-theme"
 

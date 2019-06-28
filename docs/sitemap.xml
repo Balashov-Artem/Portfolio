@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/portfolio/artificial_limb/</loc>
+    <loc>http://balashov-artem.github.io/portfolio/artificial_limb/</loc>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/projects/scienific/</loc>
+    <loc>http://balashov-artem.github.io/projects/scienific/</loc>
     <lastmod>2016-05-01T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/portfolio/gears/</loc>
+    <loc>http://balashov-artem.github.io/portfolio/gears/</loc>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/portfolio/cirrus_sr22_tail_plane/</loc>
+    <loc>http://balashov-artem.github.io/portfolio/cirrus_sr22_tail_plane/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/portfolio/beam/</loc>
+    <loc>http://balashov-artem.github.io/portfolio/beam/</loc>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/about/</loc>
+    <loc>http://balashov-artem.github.io/about/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://balashov-artem.github.io/Portfolio/contact/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balashov-artem.github.io/Portfolio/projects/la-156_wing/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://balashov-artem.github.io/Portfolio/portfolio/</loc>
+    <loc>http://balashov-artem.github.io/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/projects/</loc>
+    <loc>http://balashov-artem.github.io/contact/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://balashov-artem.github.io/projects/la-156_wing/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://balashov-artem.github.io/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/categories/</loc>
+    <loc>http://balashov-artem.github.io/projects/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://balashov-artem.github.io/Portfolio/tags/</loc>
+    <loc>http://balashov-artem.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://balashov-artem.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

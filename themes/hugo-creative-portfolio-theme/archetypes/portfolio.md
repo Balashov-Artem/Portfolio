@@ -1,8 +1,5 @@
 +++
-draft = false
-title = ""
+draft = true
 image = ""
-date = 
 showonlyimage = false
-description = ""
 +++

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Balashov Artem portfolio</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Balashov Artem portfolio</description>
+    <title>Balashov Artem</title>
+    <link>https://balashov-artem.github.io/Portfolio/</link>
+    <description>Recent content on Balashov Artem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://balashov-artem.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial limb</title>
-      <link>http://example.org/portfolio/artificial_limb/</link>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/artificial_limb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/artificial_limb/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/artificial_limb/</guid>
       <description>Design the artificial limb from composite material.
 The aim of this work was design the composite strut, at first, as changeover the aluminum one. Then was design an elastic part and hard base.
 The original artificial limb looks like this:
@@ -26,10 +26,10 @@ Blue curve shows how depend reinforcement angle of compressive strength, yellow 
     
     <item>
       <title>Technological stresses  of integrated constructions</title>
-      <link>http://example.org/projects/scienific/</link>
+      <link>https://balashov-artem.github.io/Portfolio/projects/scienific/</link>
       <pubDate>Sun, 01 May 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://example.org/projects/scienific/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/projects/scienific/</guid>
       <description>Design of stiffened composite panels with account process technological deformation.
  Goals Introduction Analytic model FEA Experimental model Source code Conclusion
   Goals The main purpose if to make an analytic model to considering technological deflected mode (Stress-Strain condition, or SSC) while design an integral structure. (By intagral means structure, that made from 2 or more parts and formed at the same time).
@@ -38,10 +38,10 @@ First step objectives: * Investigation influence of structural parameters integr
     
     <item>
       <title>Reducers</title>
-      <link>http://example.org/portfolio/gears/</link>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/gears/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/gears/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/gears/</guid>
       <description>&lt;p&gt;There are some different reducers were design from requirements to final model and drafts, ready to manufacture&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -108,19 +108,19 @@ The drive gear on the input shafts are two electric motors of 2 kW each one. Gen
     
     <item>
       <title>Cirrus SR22 tail plane</title>
-      <link>http://example.org/portfolio/cirrus_sr22_tail_plane/</link>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/cirrus_sr22_tail_plane/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://example.org/portfolio/cirrus_sr22_tail_plane/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/cirrus_sr22_tail_plane/</guid>
       <description>&lt;p&gt;Modeling paramitrized tail plane in CATIA V5&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The beam with strut</title>
-      <link>http://example.org/portfolio/beam/</link>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/beam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/beam/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/beam/</guid>
       <description>Design composite carbon beam with fiber-glass strut and articulator connectors.
  Initial data Beam profile definition Design loads definition Internal forces diagrams Paperwork FEA Beam manufacture Conclusion  Initial data Beam has been designed to bearable irregularly distributed load from 75 kN at the assembly unit to -60 kN at the end.
 Materials  Part Type Material   Shelfs Carbon fiber IM6, 65%   Side Carbon cloth 6GfH, 58%   Srtut Fibrf-glass E-glass, 60%   Beam profile definition In this work beam profile has form of I-section (or turned H-section).</description>
@@ -128,10 +128,10 @@ Materials  Part Type Material   Shelfs Carbon fiber IM6, 65%   Side Carbon cloth
     
     <item>
       <title>NEED TR    LA-156 Wing skin</title>
-      <link>http://example.org/projects/la-156_wing/</link>
+      <link>https://balashov-artem.github.io/Portfolio/projects/la-156_wing/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://example.org/projects/la-156_wing/</guid>
+      <guid>https://balashov-artem.github.io/Portfolio/projects/la-156_wing/</guid>
       <description>Design of an LA-156 Wing skin.
 Contents  Introduction Work scheme Input data Parametrize Master-Geometry Calculating  Pressure type allocation Adhesive connection Skin types comprasion Figurativly parts  Modeling FEM calculation Technology and manufacturing  Segments lining Modling frame Materials and equipment list  Conclusion Tech-documentation  Introduction The aim of this work was a design of covering for the wing LA-156, as a part of acomplex teamwork. The operation loads of the skin panels were calculated based on the rationing loads of the wing.</description>
     </item>

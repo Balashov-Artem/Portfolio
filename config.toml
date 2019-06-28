@@ -1,4 +1,4 @@
-baseURL = "http://balashov-artem.github.io/"
+baseURL = "https://balashov-artem.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Balashov Artem"

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Balashov Artem portfolio</title>
+    <link>http://example.org/projects/</link>
+    <description>Recent content in Projects on Balashov Artem portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technological stresses  of integrated constructions</title>
+      <link>http://example.org/projects/scienific/</link>
+      <pubDate>Sun, 01 May 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://example.org/projects/scienific/</guid>
+      <description>Design of stiffened composite panels with account process technological deformation.
+ Goals Introduction Analytic model FEA Experimental model Source code Conclusion
+  Goals The main purpose if to make an analytic model to considering technological deflected mode (Stress-Strain condition, or SSC) while design an integral structure. (By intagral means structure, that made from 2 or more parts and formed at the same time).
+First step objectives: * Investigation influence of structural parameters integral construction on technological deflected mode in terms of stringer set panel.</description>
+    </item>
+    
+    <item>
+      <title>NEED TR    LA-156 Wing skin</title>
+      <link>http://example.org/projects/la-156_wing/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://example.org/projects/la-156_wing/</guid>
+      <description>Design of an LA-156 Wing skin.
+Contents  Introduction Work scheme Input data Parametrize Master-Geometry Calculating  Pressure type allocation Adhesive connection Skin types comprasion Figurativly parts  Modeling FEM calculation Technology and manufacturing  Segments lining Modling frame Materials and equipment list  Conclusion Tech-documentation  Introduction The aim of this work was a design of covering for the wing LA-156, as a part of acomplex teamwork. The operation loads of the skin panels were calculated based on the rationing loads of the wing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 draft = false
 image = "img/projects/LA-156_Wing.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "NEED TR    LA-156 Wing skin"
+title = "LA-156 Wing skin"
 showonlyimage = false
 description = "Design of an LA-156 Wing skin"
 +++

@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Balashov Artem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://balashov-artem.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,11 +26,11 @@ First step objectives: * Investigation influence of structural parameters integr
     <item>
       <title>Automatization of Abaqus FEA using python</title>
       <link>https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <pubDate>Wed, 05 Sep 2018 18:25:22 +0530</pubDate>
       
       <guid>https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/</guid>
-      <description>In this paper I will describe how to automate Abaqus Finite Element Analyses using python script on example of optimization wing skin panel parameters.
-Contents  Introduction Initial data Work in GUI  Model import Modeling CM Loads and BC Result export  Scripts generation and formatting Main file adjustment
+      <description>In this paper I will describe how to automate Abaqus Finite Element Analyses using python script on example of optimization plain panel from composite material under equal pressure distribution.
+Contents  Introduction Initial data Work in GUI  Modeling CM Loads and BC Result export  Scripts generation and formatting Main file adjustment
  Making template Parsing result file Iteration optimization Main file optimization  Conclusion
   Introduction The main point of this whole work is to replace action sequence in GUI by formatted scripts.</description>
     </item>

@@ -8,7 +8,9 @@ theme = "hugo-creative-portfolio-theme"
   style = "blue"
   description = ""
   copyright = ""
-  sidebarAbout = ["bla-bla-bla3"]
+  sidebarAbout = [""" Hi, my name is Artem, and this is my working portfolio.
+  Here You can found my research propositions, working designs, and projects I made as a hobby.
+  """]
 
 
   email = "Balashov.AE@yandex.com"
@@ -35,11 +37,9 @@ theme = "hugo-creative-portfolio-theme"
 
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "Balashow.Artem@gmail.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/balashov301"
+  email         = "Balashov.Artem@protonmail.com"
+  linkedin      = "https://www.linkedin.com/in/artem-balashov-44b108169"
+#  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "https://instagram.com/balashov.ae?igshid=ezh9sz5dluvv"
+  github        = "https://github.com/Balashov-Artem" 

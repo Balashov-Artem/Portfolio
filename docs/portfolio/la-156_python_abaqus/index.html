@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Wing panel optimization using python script for Abaqus FEA</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<link rel="stylesheet" href="https://balashov-artem.github.io/Portfolio/css/bootstrap.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
+<link rel="stylesheet" href="https://balashov-artem.github.io/Portfolio/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://balashov-artem.github.io/Portfolio/css/owl.carousel.css">
+<link rel="stylesheet" href="https://balashov-artem.github.io/Portfolio/css/owl.theme.css">
+
+
+  <link href="https://balashov-artem.github.io/Portfolio/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+ 
+
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+
+<link href="https://balashov-artem.github.io/Portfolio/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://balashov-artem.github.io/Portfolio/img/favicon.png">
+
+
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="https://balashov-artem.github.io/Portfolio/">Balashov Artem</a></h1>
+    
+      <p class="sidebar-p"> Hi, my name is Artem, and this is my working portfolio.
+  Here You can found my research propositions, working designs, and projects I made as a hobby.
+  </p>
+    
+    <ul class="sidebar-menu">
+      
+      
+        <li><a href="https://balashov-artem.github.io/Portfolio/portfolio/">Portfolio</a></li>
+      
+        <li><a href="https://balashov-artem.github.io/Portfolio/projects/">Projects</a></li>
+      
+        <li><a href="https://balashov-artem.github.io/Portfolio/about/">About</a></li>
+      
+        <li><a href="https://balashov-artem.github.io/Portfolio/contact/">Get in touch</a></li>
+      
+    </ul>
+    <p class="social">
+  
+  <a href="https://www.facebook.com/balashov301" data-animate-hover="pulse" class="external facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+  
+  
+  
+  
+  <a href="https://instagram.com/balashov.ae?igshid=ezh9sz5dluvv" title="" class="external instagram">
+    <i class="fa fa-instagram"></i>
+  </a>
+  
+  
+  <a href="mailto:Balashov.Artem@protonmail.com" data-animate-hover="pulse" class="email">
+    <i class="fa fa-envelope"></i>
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/artem-balashov-44b108169" data-animate-hover="pulse" class="external">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  
+  
+  <a href="https://github.com/Balashov-Artem" data-animate-hover="pulse" class="external">
+    <i class="fa fa-github"></i>
+  </a>
+  
+</p>
+
+
+    <div class="copyright">
+      <p class="credit">
+        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
+      </p>
+    </div>
+  </div>
+</div>
+
+              
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  <div class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <h1 class="small-navbar-heading"><a href="https://balashov-artem.github.io/Portfolio/">Balashov Artem</a></h1>
+</div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>Wing panel optimization using python script for Abaqus FEA</h1>
+         
+
+<p>In this paper I will give a short overview to the project I made of optimization of LA-156 Wing skin upper panel <a href="https://balashov-artem.github.io/Portfolio/projects/la-156_wing/">from this work</a> using Abaqus FEA and <a href="https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/">python scripting</a>.</p>
+
+<p><img src="../../img/portfolio/LA-156_Abaqus_python_opt/1.png " width="75%" alt="Here shall be picture of wing" /></p>
+
+<h2 id="contents">Contents</h2>
+
+<hr />
+
+<ul>
+<li><a href="#initial-data">Initial data</a></li>
+<li><a href="#task-observation">Task observation</a></li>
+<li><a href="#iteration-optimization">Iteration optimization</a></li>
+<li><a href="#conclusion">Conclusion</a><br /></li>
+</ul>
+
+<hr />
+
+<h3 id="initial-data">Initial data</h3>
+
+<p>In this paper, was observed analysis of a composite three-layer panel of the La-156 wing skin lower panel loaded with uniformly distributed pressure. It is necessary to carry out the design calculation by the finite element method (hereinafter FEM) with iterative change of some initial data. Initial data were taken from the work <a href="https://balashov-artem.github.io/Portfolio/projects/la-156_wing/">LA-156 Wing skin</a>.</p>
+
+<p><img src="../../img/portfolio/LA-156_Abaqus_python_opt/2.png " width="75%" alt="Here shall be picture of wing scheme" /></p>
+
+<p><em>Aircraft wing design Scheme</em></p>
+
+<p>Wing airfoil – NACA 2216.</p>
+
+<table border="1" width="50%">
+   <caption>Table 1. Overall dimensions</caption>
+   <tr>   <th>Root chord, mm</th>   <th>1925</th>
+   <tr>   <td>Edge chord, mm</td>   <th>1025</th>
+   <tr>   <td>Console length</td>   <th>270</th>
+   </table>
+
+<p>The model for the analysis was imported from the CATIA V5 system, so before starting the analysis it is necessary to specify the lines of the beginning and ends of the spar, walls and ribs. Luckily, these softwares were developed with one company, so I don&rsquo;t need to convert my model to another format. The percentages are shown in table 2:</p>
+
+<table border="1" width="70%">
+    <caption>Table 2. Parts' dimensions</caption>
+    <tr>    <th>Lead edge, %*</th>      <th>5</th>      <th>Back edge, %5</th>      <th>95</th>     </tr>
+    <tr>    <th>1 rib opening, %**</th> <th>6,5</th>    <th>1 rib ending, %**</th>  <th>8</th>      </tr>
+    <tr>    <th>2 rib opening, %**</th> <th>26,5</th>   <th>2 rib ending, %**</th>  <th>28</th>     </tr>
+    <tr>    <th>3 rib opening, %**</th> <th>47</th>     <th>3 rib ending, %**</th>  <th>48,5</th>   </tr>
+    <tr>    <th>4 rib opening, %**</th> <th>63,5</th>   <th>4 rib ending, %**</th>  <th>65</th>     </tr>
+    <tr>    <th>5 rib opening, %**</th> <th>90</th>     <th>5 rib ending, %**</th>  <th>91,5</th>   </tr>
+    </table>
+
+<p>where, %* - along chord, %** - along console.
+The pressure varies from 0.92 MPa on the wing tip to 0.07 MPa on the rear panels. In this paper, the maximum was taken into account.</p>
+
+<table border="1" width="80%">
+    <caption>Table 3. CM characteristics</caption>
+    <tr>    <th>Tension elastic modulus</th>                    <th>Et, GPa</th>    <th>58</th>     </tr>
+    <tr>    <th>Compression elastic modulus</th>                <th>Ec, GPa</th>    <th>57,8</th>   </tr>
+    <tr>    <th>Transversal elastic modulus</th>                <th>G, GPa</th>     <th>10,49</th>  </tr>
+    <tr>    <th>Tension critical stress along fiber</th>        <th>Ft1, MPa</th>   <th>904</th>    </tr>
+    <tr>    <th>Compression critical stress along fiber</th>    <th>Fc1, MPa</th>   <th>128</th>    </tr>
+    <tr>    <th>Tension critical stress across fiber</th>       <th>Ft2, MPa</th>   <th>904</th>    </tr>
+    <tr>    <th>Compression critical stress across fiber</th>   <th>Fc2, MPa</th>   <th>128</th>    </tr>
+    <tr>    <th>Transversal critical stress</th>                <th>F12, MPa</th>   <th>176</th>    </tr>
+    <tr>    <th>Poisson coefficient </th>                       <th>nu_xy</th>      <th>0,06</th>   </tr>
+    <tr>    <th>Mono-layer thickness</th>                       <th>d0, mm</th>     <th>0,42</th>   </tr>
+    <tr>    <th>Density</th>                                    <th>po, kg/mm3</th> <th>1335</th>   </tr>
+    </table>
+
+<hr />
+
+<h3 id="task-observation">Task observation</h3>
+
+<p>In the modeling three-layered composite (hereinafter CM) panel has been taken some assumptions. Since the panel is connected to the spar, 2 walls and 5 ribs, in these places there can not be filler, since it is not able to transfer the load between the skin and the power sets, in these areas filler is truncated. The structure of the panel becomes segmented – 12 segments of foam filler are placed within the panel.
+Modeling such a structure for FEM analysis is a very time-consuming and not entirely justified task, since it takes a lot of time both for modeling and calculation, and the results can be incorrectly interpreted due to incorrect display of the operating stresses in the areas of stress concentrators – at the boundaries of segments.</p>
+
+<p>In this regard, the modeling of a three-layer panel in this work takes place by introducing a filler as one of the layers of the composite. Abaqus allows to create layered profiles with the “Create composite layer”command.</p>
+
+<p>The load is modeled as a uniform pressure , the boundary conditions (hereinafter, BC) – by fixing all the movements and rotations of the connection sections of the wing skin panel with the power elements Such GU correspond to reality, because the type of connection – adhesive, provides load transfer without displacements and turns.</p>
+
+<p>The type of finite elements is set to quadrangular – since the panel has no stress concentrators, and it itself presented as curved in the plane quadrangular surface. The type of finite element approximation is the quadratic approximation of displacements within a single element.
+The size of the finite elements (FE) is given by the variable between iterations. For design iterations, the size of the FE set to be not more than 5% of the minimum (1025) overall panel size – 44mm – value set by ABAQUS as default for the initial iterations fits quite fine.</p>
+
+<h4 id="loads-and-bc">Loads and BC</h4>
+
+<p>This panel has usual for most composite wing panel connection type - glue connection with ribs and longeron, so BC for this panel is next:</p>
+
+<p><img src="../../img/portfolio/LA-156_Abaqus_python_opt/3.png " width="75%" alt="Here shall be picture of set for BC " /></p>
+
+<hr />
+
+<h3 id="iteration-optimization">Iteration optimization</h3>
+
+<p>When the scripts generation from variables and templates is configured, the results search in results file is configured, in fact it is enough to write a cycle of successive calls of these functions in the executable file in order to automate the process. But in this project it is necessary to optimize the result by changing initial parameters.</p>
+
+<p>There are many ways of optimization, their number depends only on engineer imagination. For example, we can set the stability calculation, and change the filler thickness based on the results from stress loss of stability. We can record the results of successive thickness increasing and reinforcement layers (RL) increasing, output the results as a graph with the axes of the resulting strength and mass, and select a point with a minimum mass.
+But in this project we will change only the number of layers and their orientation. The thickness of the filler is selected as 12 mm. Assume that this parameter is immutable.</p>
+
+<p>The orientation angle optimization looks as follows:</p>
+
+<ol>
+<li>Set the number of layers in each group to 1</li>
+<li>Setting the angle search range from 0° to 90° with 15°increments.</li>
+<li>Result file analyses and determination the angle with maximum margin of safety (at which iteration).</li>
+<li>A sequential set of layers in a given group.</li>
+</ol>
+
+<p>As can be seen from the requirement abowe, it is necessary to implement 2 different iterative systems, one without the condition – the search of the angle regardless from results, and one conditional, the search of thicknesses depending on results. This was implemented 2 functions, conditionals (next code fragment) and unconditional.</p>
+
+<pre><code class="language-python">def find_opymal_orient (params, angle_range):
+    global n
+
+    for fi in angle_range:
+        n += 1
+
+        print('Set up Ply3 and Ply6 as {}°, and Plyes 4 and 5 as {}°'.format(fi, -fi))
+        params['Pl_or']['Ply3'] = fi
+        params['Pl_or']['Ply4'] = -fi
+        params['Pl_or']['Ply5'] = -fi
+        params['Pl_or']['Ply6'] = fi
+
+        print('Generate scripts')
+        sctipt_name = Generate_scripts(params, n)
+
+        print('Start a calculation in Abaqus')
+        command = 'abaqus cae noGUI=' + sctipt_name
+        os.popen (command, 'w')     #DELEGATION OPERATION TO ABAQUS
+        find_or_delay (None, 'Print' + str(n) + '.png')
+
+        print('\nCalculation ', n, 'is done\n')
+        print('THSAI =', '\n', parser_res('abaqus.rpt')[1], '\n')
+
+
+    results = parser_res('abaqus.rpt')[0]
+    min_THSAI = min(results.values())
+    iter_num_min_val = find_key_value(results, min_THSAI)
+    fi_min_val = iter_num_min_val -1
+    fi_opt = angle_range[fi_min_val]
+    print('\n', iter_num_min_val, ' -- number of iteration with the smallest value of result')
+    print('this iteration correspond to angle of ', fi_opt, '\n')
+    return fi_opt, results, min_THSAI
+</code></pre>
+
+<p>Optimization Function of the orientation angle</p>
+
+<p>The function of thickness increasing won’t be given here, because it is not too different from this. However, the full code and the executable file, will be provided in the <a href="https://github.com/Balashov-Artem/Portfolio/blob/master/static/source_code/LA-156_abaqus_python">Application</a>
+What this feature does in detail:</p>
+
+<ul>
+<li>Shortens the name “angle range” to “fi”;</li>
+<li>Initiate cycle through the list of angles, where i – number of iteration, and the angle;</li>
+<li>Increases the iteration counter by 1</li>
+<li>Sets 3 and 6 angles to fi and 4 and 5 to -fi, writes these values to the dictionary and reports about it to the terminal;</li>
+<li>Starts the script generation function and reports about it;</li>
+<li>Generates a command to run the script from the script name;</li>
+<li>Delegates this command to the abaqus interpreter and reports it;</li>
+<li>Starts the delay function until abaqus finished calculation;</li>
+<li>Reports about completion of the n-th iteration of Abaqus and displays the result. After that, the cycle ends, but the function still works;</li>
+<li>Calls the search function for results from a file and writes them into the dictionary;</li>
+<li>Specifies the iteration number with the maximum safety margin;</li>
+<li>Defines the angle at this iteration;</li>
+<li>Reports the iteration number and the optimal angle to the terminal;</li>
+<li>Outputs the tuple from the optimal angle, the dictionary of all results, and the last iteration number as a result</li>
+</ul>
+
+<hr />
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>This panel with a thickness of 12 mm filler withstands specified loads and pressure with the number of layers equal to 2 pieces, and since it was a textile, its optimal stacking angle is 0°. It is obvious that this program will not optimize the panel, it will check all the angles, make sure that at 0° and 90° the results are equal and minimal, and the second function will not even starts at all, because the margin of safety is greater than 1.</p>
+
+<p>In this regard, as an example, was analyzed model with a glass fiber material (E-glass 55%) with a filler thickness of 12mm. Characteristics of which are given in table 4.</p>
+
+<table border="1" width="80%">
+    <caption>Table 4. E-glass 55% characteristics</caption>
+    <tr>    <th>Tension elastic modulus</th>                    <th>Et, GPa</th>    <th>41</th>     </tr>
+    <tr>    <th>Compression elastic modulus</th>                <th>Ec, GPa</th>    <th>10.4</th>   </tr>
+    <tr>    <th>Transversal elastic modulus</th>                <th>G, GPa</th>     <th>4.3</th>    </tr>
+    <tr>    <th>Tension critical stress along fiber</th>        <th>Ft1, MPa</th>   <th>1140</th>   </tr>
+    <tr>    <th>Compression critical stress along fiber</th>    <th>Fc1, MPa</th>   <th>620</th>    </tr>
+    <tr>    <th>Tension critical stress across fiber</th>       <th>Ft2, MPa</th>   <th>39</th>     </tr>
+    <tr>    <th>Compression critical stress across fiber</th>   <th>Fc2, MPa</th>   <th>128</th>    </tr>
+    <tr>    <th>Transversal critical stress</th>                <th>F12, MPa</th>   <th>89</th>     </tr>
+    <tr>    <th>Poisson coefficient </th>                       <th>nu_xy</th>      <th>0,06</th>   </tr>
+    <tr>    <th>Mono-layer thickness</th>                       <th>d0, mm</th>     <th>0,42</th>   </tr>
+    <tr>    <th>Density</th>                                    <th>po, kg/mm3</th> <th>1970</th>   </tr>
+    </table>
+
+<hr />
+
+<p>The file with the results will be shown in <a href="https://github.com/Balashov-Artem/Portfolio/blob/master/static/source_code/LA-156_abaqus_python/abaqus.rpt">Appendix</a>, and here is the image of the last iteration with optimal stacking angle and the thickness of the bearing layers.</p>
+
+<p><img src="../../img/portfolio/LA-156_Abaqus_python_opt/4.png " width="75%" alt="Here shall be picture of wing again" /></p>
+
+         
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+      </div>
+  </div>
+  <script src="https://balashov-artem.github.io/Portfolio/js/jquery.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/bootstrap.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/jquery.cookie.js"> </script>
+<script src="https://balashov-artem.github.io/Portfolio/js/ekko-lightbox.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/jquery.scrollTo.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/masonry.pkgd.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/owl.carousel.min.js"></script>
+<script src="https://balashov-artem.github.io/Portfolio/js/front.js"></script>
+
+</body>
+</html>

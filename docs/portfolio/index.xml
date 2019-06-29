@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Balashov Artem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://balashov-artem.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -112,6 +112,17 @@ The drive gear on the input shafts are two electric motors of 2 kW each one. Gen
       <description>Design composite carbon beam with fiber-glass strut and articulator connectors.
  Initial data Beam profile definition Design loads definition Internal forces diagrams Paperwork FEA Beam manufacture Conclusion  Initial data Beam has been designed to bearable irregularly distributed load from 75 kN at the assembly unit to -60 kN at the end.
 Materials  Part Type Material   Shelfs Carbon fiber IM6, 65%   Side Carbon cloth 6GfH, 58%   Srtut Fibrf-glass E-glass, 60%   Beam profile definition In this work beam profile has form of I-section (or turned H-section).</description>
+    </item>
+    
+    <item>
+      <title>Wing panel optimization using python script for Abaqus FEA</title>
+      <link>https://balashov-artem.github.io/Portfolio/portfolio/la-156_python_abaqus/</link>
+      <pubDate>Wed, 05 Jun 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://balashov-artem.github.io/Portfolio/portfolio/la-156_python_abaqus/</guid>
+      <description>In this paper I will give a short overview to the project I made of optimization of LA-156 Wing skin upper panel from this work using Abaqus FEA and python scripting.
+Contents  Initial data Task observation Iteration optimization Conclusion
+  Initial data In this paper, was observed analysis of a composite three-layer panel of the La-156 wing skin lower panel loaded with uniformly distributed pressure. It is necessary to carry out the design calculation by the finite element method (hereinafter FEM) with iterative change of some initial data.</description>
     </item>
     
   </channel>

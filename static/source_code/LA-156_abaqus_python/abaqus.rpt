@@ -1,0 +1,1748 @@
+********************************************************************************
+Field Output Report, written Thu May 24 14:11:22 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.48         3.44         3.40         3.36     553.E-03         2.81         2.86         2.87         2.95
+   At Element                      1277         1277         1277         1277         1179         1216         1216         1157         1216
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      987.         967.         964.         952.         231.         912.         924.         900.         949.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:13:21 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.44         3.40         4.20         3.99     546.E-03         3.62         3.55         2.83         2.88
+   At Element                      1277         1277          299         1192         1179         1204         1228         1157         1216
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      975.         955.     1.25E+03     1.16E+03         228.     1.09E+03     1.15E+03         888.         934.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:15:14 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.37         3.33         6.38         6.18     533.E-03         4.44         4.45         2.75         2.79
+   At Element                      1277         1277          287          275         1179         1204         1216         1157         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      949.         932.     1.52E+03     1.45E+03         223.     1.33E+03     1.38E+03         864.         905.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:17:10 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.31         3.28         6.96         6.89     524.E-03         4.61         4.71         2.70         2.74
+   At Element                      1277         1277          287          287         1191         1137         1136         1157         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      930.         915.     1.58E+03     1.57E+03         219.     1.43E+03     1.45E+03         848.         884.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:19:07 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.32         3.28         5.95         6.03     526.E-03         4.47         4.28         2.70         2.74
+   At Element                      1277         1277          275          287         1179         1136         1137         1157         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      929.         914.     1.44E+03     1.48E+03         219.     1.33E+03     1.31E+03         847.         883.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:21:09 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.36         3.32         3.82         3.94     534.E-03         3.54         3.21         2.73         2.77
+   At Element                      1277         1277         1192         1240         1179         1136         1137         1157         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      938.         923.     1.13E+03     1.19E+03         222.     1.07E+03     1.05E+03         856.         894.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:23:04 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993671, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981013, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.968354, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.955696, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.955696, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.968354, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981013, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993671, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.38         3.34         3.30         3.26     539.E-03         2.68         2.71         2.75         2.79
+   At Element                      1277         1277         1277         1277         1179         1157         1157         1157         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      944.         929.         918.         907.         223.         839.         850.         861.         901.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:25:09 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993827, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981481, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.962963, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.938272, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.938272, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.962963, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981481, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993827, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          3.16         3.13         3.07         3.00     503.E-03         2.46         2.52         2.57         2.59
+   At Element                      1277         1277         1277         1277         1179         1136         1136         1136         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      876.         866.         850.         830.         207.         767.         787.         802.         833.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:27:06 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.993976, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.981928, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.957831, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.921687, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.921687, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.957831, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.981928, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.993976, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.97         2.94         2.88         2.78     470.E-03         2.31         2.40         2.46         2.43
+   At Element                      1277         1277         1277         1277         1179         1136         1136         1136         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      819.         812.         793.         765.         192.         706.         734.         752.         778.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:28:54 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994118, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.982353, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.952941, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.905882, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.905882, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.952941, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.982353, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994118, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.81         2.78         2.70         2.59     440.E-03         2.19         2.30         2.37         2.28
+   At Element                      1277         1277         1277         1277         1179         1136         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      770.         765.         743.         709.         179.         654.         688.         709.         730.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:30:52 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994253, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.982759, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.948276, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.890805, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.890805, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.948276, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.982759, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994253, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.66         2.63         2.55         2.41     413.E-03         2.07         2.21         2.29         2.15
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      727.         723.         699.         660.         168.         608.         648.         671.         688.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:32:51 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994382, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.983146, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.943820, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.876405, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.876405, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.943820, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.983146, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994382, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.53         2.50         2.41         2.26     389.E-03         1.97         2.13         2.22         2.04
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      688.         686.         660.         617.         157.         568.         612.         638.         652.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:34:51 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994505, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.983516, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.939560, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.862637, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.862637, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.939560, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.983516, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994505, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.41         2.38         2.29         2.12     366.E-03         1.88         2.05         2.15         1.93
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      654.         653.         626.         578.         148.         532.         580.         608.         619.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:36:48 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994624, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.983871, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.935484, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.849462, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.849462, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.935484, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.983871, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994624, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.30         2.28         2.18         2.00     346.E-03         1.80         1.98         2.09         1.84
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      624.         623.         594.         543.         140.         501.         552.         580.         590.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:38:44 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994737, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.984211, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.931579, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.836842, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.836842, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.931579, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.984211, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994737, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.20         2.18         2.07         1.89     327.E-03         1.72         1.92         2.02         1.76
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      596.         596.         566.         512.         132.         472.         526.         556.         564.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:40:42 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994845, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.984536, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.927835, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.824742, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.824742, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.927835, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.984536, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994845, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.11         2.09         1.98         1.79     309.E-03         1.64         1.85         1.97         1.68
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      570.         570.         540.         484.         125.         446.         502.         533.         540.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:42:35 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.994950, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.984848, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.924242, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.813131, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.813131, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.924242, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.984848, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.994950, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          2.02         2.00         1.89         1.69     293.E-03         1.58         1.79         1.91         1.61
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1157
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      547.         547.         516.         458.         119.         422.         480.         512.         518.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:44:31 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995049, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.985148, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.920792, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.801980, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.801980, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.920792, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.985148, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995049, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.94         1.92         1.81         1.61     278.E-03         1.51         1.74         1.86         1.55
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      525.         526.         494.         434.         113.         400.         460.         493.         498.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:46:27 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995146, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.985437, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.917476, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.791262, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.791262, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.917476, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.985437, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995146, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.87         1.85         1.74         1.53     264.E-03         1.45         1.68         1.81         1.50
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      505.         506.         473.         412.         107.         381.         442.         475.         479.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:48:24 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995238, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.985714, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.914286, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.780952, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.780952, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.914286, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.985714, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995238, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.80         1.78         1.67         1.45     251.E-03         1.39         1.63         1.76         1.45
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      487.         488.         454.         392.         102.         362.         425.         458.         462.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:50:25 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995327, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.985981, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.911215, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.771028, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.771028, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.911215, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.985981, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995327, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.73         1.72         1.60         1.39     239.E-03         1.34         1.59         1.72         1.40
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      469.         471.         437.         374.         97.7         345.         409.         443.         446.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:52:24 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995413, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.986239, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.908257, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.761468, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.761468, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.908257, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.986239, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995413, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.67         1.66         1.54         1.32     228.E-03         1.29         1.54         1.67         1.35
+   At Element                      1277         1277         1277         1277         1179         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      453.         455.         420.         357.         93.3         330.         394.         428.         431.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:54:27 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995495, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.986486, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.905405, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.752252, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.752252, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.905405, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.986486, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995495, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.62         1.60         1.49         1.26     217.E-03         1.24         1.50         1.63         1.31
+   At Element                      1277         1277         1277         1277         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      438.         439.         405.         341.         89.2         315.         380.         415.         417.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:56:23 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995575, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.986726, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.902655, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.743363, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.743363, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.902655, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.986726, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995575, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.56         1.55         1.44         1.21     207.E-03         1.20         1.46         1.59         1.27
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      424.         425.         391.         326.         85.4         302.         367.         402.         403.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 14:58:18 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995652, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.986957, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.900000, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.734783, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.734783, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.900000, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.986957, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995652, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.52         1.51         1.39         1.16     198.E-03         1.16         1.42         1.56         1.23
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      410.         412.         377.         312.         81.8         289.         355.         389.         391.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:00:11 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995726, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.987179, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.897436, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.726496, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.726496, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.897436, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.987179, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995726, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.47         1.46         1.34         1.12     190.E-03         1.11         1.38         1.52         1.20
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      397.         399.         364.         299.         78.4         277.         343.         378.         379.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:01:55 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995798, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.987395, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.894958, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.718487, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.718487, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.894958, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.987395, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995798, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.43         1.42         1.30         1.08     182.E-03         1.08         1.34         1.48         1.16
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      385.         387.         352.         287.         75.3         266.         332.         367.         368.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:03:35 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995868, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.987603, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.892562, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.710744, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.710744, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.892562, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.987603, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995868, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.39         1.38         1.26         1.04     174.E-03         1.04         1.31         1.45         1.13
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      374.         376.         341.         276.         72.3         256.         322.         357.         357.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:05:11 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.995935, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.987805, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.890244, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.703252, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.703252, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.890244, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.987805, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.995935, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.35         1.34         1.22     998.E-03     167.E-03         1.01         1.27         1.42         1.10
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      363.         365.         330.         265.         69.5         246.         312.         347.         347.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:06:46 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996000, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988000, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.888000, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.696000, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.696000, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.888000, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988000, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996000, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.31         1.31         1.19     962.E-03     160.E-03     972.E-03         1.24         1.38         1.07
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      353.         355.         320.         255.         66.8         237.         303.         337.         338.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:08:38 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996063, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988189, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.885827, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.688976, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.688976, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.885827, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988189, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996063, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.28         1.27         1.15     928.E-03     154.E-03     941.E-03         1.21         1.35         1.04
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      343.         345.         311.         245.         64.3         228.         294.         328.         329.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:10:32 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996124, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988372, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.883721, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.682171, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.682171, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.883721, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988372, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996124, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.25         1.24         1.12     896.E-03     148.E-03     911.E-03         1.18         1.32         1.01
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      334.         335.         301.         236.         61.9         220.         286.         320.         320.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:12:29 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996183, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988550, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.881679, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.675573, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.675573, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.881679, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988550, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996183, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.21         1.21         1.09     865.E-03     142.E-03     882.E-03         1.15         1.29     988.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      325.         326.         293.         228.         59.7         212.         277.         312.         312.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:14:25 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996241, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988722, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.879699, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.669173, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.669173, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.879699, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988722, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996241, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.18         1.18         1.06     836.E-03     137.E-03     855.E-03         1.13         1.27     964.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      317.         318.         284.         220.         57.5         205.         270.         304.         304.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:16:17 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996296, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.988889, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.877778, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.662963, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.662963, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.877778, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.988889, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996296, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.15         1.15         1.03     808.E-03     132.E-03     828.E-03         1.10         1.24     940.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      308.         310.         276.         212.         55.5         198.         263.         296.         296.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:18:15 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996350, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989051, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.875912, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.656934, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.656934, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.875912, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989051, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996350, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.12         1.12         1.00     781.E-03     127.E-03     803.E-03         1.07         1.21     917.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      301.         302.         269.         205.         53.6         191.         256.         289.         289.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:20:12 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996403, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989209, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.874101, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.651079, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.651079, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.874101, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989209, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996403, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.10         1.09     977.E-03     756.E-03     122.E-03     779.E-03         1.05         1.19     895.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      293.         294.         262.         198.         51.7         185.         249.         282.         282.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:22:08 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996454, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989362, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.872340, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.645390, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.645390, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.872340, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989362, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996454, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.07         1.06     951.E-03     732.E-03     118.E-03     756.E-03         1.03         1.16     874.E-03
+   At Element                      1278         1278         1278         1278         1191         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      286.         287.         255.         192.         50.0         179.         242.         276.         275.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:24:15 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996503, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989510, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.870629, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.639860, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.639860, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.870629, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989510, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996503, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.04         1.04     927.E-03     709.E-03     114.E-03     734.E-03         1.00         1.14     854.E-03
+   At Element                      1278         1278         1278         1278         1290         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      279.         280.         248.         185.         48.3         173.         236.         269.         269.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:26:09 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996552, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989655, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.868966, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.634483, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.634483, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.868966, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989655, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996552, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                          1.02         1.01     903.E-03     687.E-03     111.E-03     713.E-03     980.E-03         1.12     834.E-03
+   At Element                      1278         1278         1278         1278         1290         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      273.         274.         242.         180.         46.7         168.         230.         263.         263.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:28:06 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996599, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989796, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.867347, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.629252, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.629252, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.867347, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989796, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996599, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      996.E-03     991.E-03     881.E-03     666.E-03     107.E-03     693.E-03     958.E-03         1.09     815.E-03
+   At Element                      1278         1278         1278         1278         1290         1305         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      266.         267.         235.         174.         45.2         163.         225.         257.         257.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:30:05 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996644, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.989933, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.865772, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.624161, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.624161, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.865772, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.989933, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996644, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      973.E-03     969.E-03     859.E-03     646.E-03     104.E-03     674.E-03     937.E-03         1.07     797.E-03
+   At Element                      1278         1278         1278         1278         1290         1306         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      260.         261.         230.         169.         43.7         158.         219.         251.         251.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:32:01 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996689, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.990066, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.864238, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.619205, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.619205, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.864238, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.990066, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996689, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      951.E-03     947.E-03     838.E-03     627.E-03     101.E-03     656.E-03     917.E-03         1.05     780.E-03
+   At Element                      1278         1278         1278         1278         1290         1306         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      254.         255.         224.         163.         42.4         153.         214.         246.         245.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:33:56 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996732, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.990196, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.862745, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.614379, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.614379, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.862745, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.990196, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996732, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      929.E-03     926.E-03     818.E-03     609.E-03     98.1E-03     639.E-03     897.E-03         1.03     763.E-03
+   At Element                      1278         1278         1278         1278         1290         1306         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      249.         250.         219.         159.         41.0         148.         209.         240.         240.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:36:14 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996774, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.990323, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.861290, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.609677, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.609677, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.861290, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.990323, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996774, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      909.E-03     905.E-03     799.E-03     591.E-03     95.2E-03     622.E-03     878.E-03         1.01     746.E-03
+   At Element                      1278         1278         1278         1278         1290         1306         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      243.         244.         213.         154.         39.8         144.         204.         235.         235.
+
+
+********************************************************************************
+Field Output Report, written Thu May 24 15:38:34 2018
+
+Source 1
+---------
+
+   ODB: e:/WorkSpace/#Ongoing_projects/abaqus_wing_python_optymmization/Wing_surf/Job-1.odb
+   Step: Air_pressure_Applying
+   Frame: Increment      1: Step Time =    1.000
+
+Loc 1 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.996815, Layer = 1
+Loc 2 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.990446, Layer = 2
+Loc 3 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.859873, Layer = 3
+Loc 4 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = -0.605096, Layer = 4
+Loc 5 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : Mid, (fraction = 0.0), Layer = 5
+Loc 6 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.605096, Layer = 6
+Loc 7 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.859873, Layer = 7
+Loc 8 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.990446, Layer = 8
+Loc 9 : Integration point values at shell < composite > < elset = ASSEMBLY_MASTER_GEOM_SURF-1_COMPOSITELAYUP-1 > from source 1 : fraction = 0.996815, Layer = 9
+
+Output sorted by column "Element Label".
+
+Field Output reported at integration points for part: MASTER_GEOM_SURF-1
+
+                                  TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH        TSAIH
+                                 @Loc 1       @Loc 2       @Loc 3       @Loc 4       @Loc 5       @Loc 6       @Loc 7       @Loc 8       @Loc 9
+------------------------------------------------------------------------------------------------------------------------------------------------
+  Minimum                            0.           0.           0.           0.           0.           0.           0.           0.           0.
+   At Element                      1580         1580         1580         1580         1580         1580         1580         1580         1580
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+  Maximum                      889.E-03     885.E-03     780.E-03     574.E-03     92.5E-03     606.E-03     860.E-03     992.E-03     731.E-03
+   At Element                      1278         1278         1278         1278         1290         1306         1305         1305         1158
+       Int Pt                         1            1            1            1            1            1            1            1            1
+
+        Total                      238.         239.         208.         149.         38.5         140.         200.         230.         230.
+
+

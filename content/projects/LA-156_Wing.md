@@ -4,7 +4,7 @@ image = "img/projects/LA-156_Wing.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "LA-156 Wing skin"
 showonlyimage = false
-description = "Design of an LA-156 Wing skin"
+description = "Design of an LA-156 Wing skin from composite material"
 +++
 
 Design of an LA-156 Wing skin.

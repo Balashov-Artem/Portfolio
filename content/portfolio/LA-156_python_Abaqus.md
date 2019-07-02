@@ -38,9 +38,9 @@ Wing airfoil – NACA 2216.
 
 <table border="1" width="50%">
    <caption>Table 1. Overall dimensions</caption>
-   <tr>   <th>Root chord, mm</th>	<th>1925</th>
-   <tr>   <td>Edge chord, mm</td>   <th>1025</th>
-   <tr>   <td>Console length</td>   <th>270</th>
+   <tr>   <th>Root chord, mm</th>	<th>1925</th>	</tr>
+   <tr>   <td>Edge chord, mm</td>   <th>1025</th>	</tr>
+   <tr>   <td>Console length</td>   <th>270</th>	</tr>
    </table>
 
 

@@ -4,7 +4,7 @@ image = "img/projects/scientific/scientific.jpg"
 date = "2016-05-01T18:25:22+05:30"
 title = "Technological stresses  of integral constructions"
 showonlyimage = false
-description = "Design of stiffened composite panels with account process induced deformation."
+description = "Design of stiffened composite panels considering technological deformation"
 weight = 2
 
 +++

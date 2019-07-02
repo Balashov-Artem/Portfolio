@@ -2,7 +2,7 @@
 title = "The beam with strut"
 
 image = "img/portfolio/beam_with_strut/Beam.jpg"
-description = "Design composite carbon beam with fiber-glass strut and articulator connectors."
+description = "Design composite carbon beam with fiber-glass strut and articulator connectors"
 date = ""
 
 draft = false

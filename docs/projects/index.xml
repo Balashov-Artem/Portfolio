@@ -45,5 +45,14 @@ Contents  Introduction Initial data Work in GUI  Modeling CM Loads and BC Result
 Contents  Introduction Work scheme Input data Parametrize Master-Geometry Calculating  Pressure type allocation Adhesive connection Skin types comprasion Figurativly parts  Modeling FEM calculation Technology and manufacturing  Segments lining Modling frame Materials and equipment list  Conclusion Tech-documentation  Introduction The aim of this work was a design of covering for the wing LA-156, as a part of acomplex teamwork. The operation loads of the skin panels were calculated based on the rationing loads of the wing.</description>
     </item>
     
+    <item>
+      <title>Research of residual stress in CM after AWJ machining using Abaqus FEA</title>
+      <link>https://balashov-artem.github.io/Portfolio/projects/residual-stress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://balashov-artem.github.io/Portfolio/projects/residual-stress/</guid>
+      <description>Contents  Introduction Simulations  Quasi-dynamic model Simulation model Scripting ABAQUS FEA results Summary  Experiments  Measurement methodology Experiments result  Conclusion  Introduction In this research will be provided one method to numerical calculation dependences from initial parameters of AWJ equipment and CM characteristics on final quality of cut and residual stress. This method presents numerical modeling using Abaqus software to simulate AWJ behavior in composite structure and examine distribution of residual stress.</description>
+    </item>
+    
   </channel>
 </rss>

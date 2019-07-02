@@ -1,8 +1,7 @@
 +++
-title = "Reducers"
-
+title = "Reducing gears"
 image = "img/portfolio/Gears/wave_Render.png"
-description = "Short overview about a few different reducer design"
+description = "Short overview about a few different projects of developing reducer design"
 date = ""
 
 draft = false
